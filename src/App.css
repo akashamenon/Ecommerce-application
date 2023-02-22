@@ -1,0 +1,46 @@
+/* .App {
+  text-align: center;
+} */
+
+/* .imageSize {
+  height: 150px;
+  width: 150px;
+} */
+
+.productItem {
+  border: 1px solid red;
+  padding: 15px;
+  margin: 15px 15px 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+h2 {
+  margin: 0;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+.productDetailWrapper {
+  margin-left: 2%;
+}
+
+.color {
+  color: rgb(173, 168, 168);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+}
+
+.productIconWrapper {
+  margin-left: 50%;
+}
+
+.footer {
+ text-align: center;
+ background-color: rgb(54, 97, 123);
+ position: fixed;
+ width: 100%;
+ bottom: 0;
+ color: white;
+ font-size: 20px;
+}
